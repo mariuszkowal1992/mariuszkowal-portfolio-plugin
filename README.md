@@ -1,38 +1,36 @@
-# EN:
+# EN: Mariusz Kowal Portfolio Plugin
 
-# Mariusz Kowal Portfolio Plugin
+A WordPress plugin created as part of the **MARIUSZKOWAL - WordPress** project. This repository is intended to present the code and organization of a custom plugin, not to provide a ready-made package for download and installation.
 
-A WordPress plugin created as part of the **MARIUSZKOWAL - WordPress** project. This repository serves to showcase the code structure and organization of a custom plugin, rather than acting as a ready-to-use package for download and installation.
+## Project Purpose
 
-## Project Goal
+The purpose of the plugin is to separate portfolio functionality from the WordPress theme. This allows the logic responsible for projects to be developed independently from the visual layer of the website.
 
-The purpose of this plugin is to separate the portfolio functionality from the WordPress theme. This ensures that the logic responsible for managing projects can be developed independently of the website's visual layer.
+## Functionality
 
-## Features
-
-The plugin introduces a custom post type to WordPress:
+The plugin adds a custom post type to WordPress:
 
 - `project` - posts representing portfolio projects.
 
-In the WordPress admin dashboard, projects are visible under the **Portfolio** menu item. The plugin also registers a hierarchical taxonomy:
+In the WordPress admin panel, projects are available under the **Portfolio** menu item. The plugin also adds a hierarchical taxonomy:
 
 - `project-category` - project categories.
 
-This allows projects to be saved in the WordPress database, edited via the admin panel, and assigned to specific categories.
+This allows projects to be stored in the WordPress database, edited in the admin panel, and assigned to categories.
 
 ## Code Scope
 
 The repository demonstrates, among other things:
 
 - the structure of a simple WordPress plugin,
-- custom post type registration,
-- custom taxonomy registration,
-- plugin activation and deactivation handling,
-- a basic `uninstall.php` file for cleaning up data upon uninstallation.
+- registration of a custom post type,
+- registration of a custom taxonomy,
+- handling plugin activation and deactivation,
+- a basic `uninstall.php` file that cleans up data after uninstallation.
 
 ## Status
 
-This is a demonstration project developed as a component of a programming portfolio. It is not intended for distribution as a public WordPress plugin.
+The project is demonstrational and is being developed as part of a programming portfolio. It is not intended for distribution as a public WordPress plugin.
 
 ## Technologies
 
@@ -45,10 +43,7 @@ This is a demonstration project developed as a component of a programming portfo
 
 Mariusz Kowal
 
-
-# PL:
-
-# Mariusz Kowal Portfolio Plugin
+# PL: Mariusz Kowal Portfolio Plugin
 
 Wtyczka WordPress stworzona jako czesc projektu **MARIUSZKOWAL - WordPress**. Repozytorium sluzy do prezentacji kodu i sposobu organizacji wlasnej wtyczki, a nie jako gotowa paczka do pobrania i instalacji.
 
