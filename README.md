@@ -43,6 +43,10 @@ The project is demonstrational and is being developed as part of a programming p
 
 Mariusz Kowal
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 742feb5700169e0d60159a7e9bbb5fa838e4dabb
 # PL: Mariusz Kowal Portfolio Plugin
 
 Wtyczka WordPress stworzona jako czesc projektu **MARIUSZKOWAL - WordPress**. Repozytorium sluzy do prezentacji kodu i sposobu organizacji wlasnej wtyczki, a nie jako gotowa paczka do pobrania i instalacji.
