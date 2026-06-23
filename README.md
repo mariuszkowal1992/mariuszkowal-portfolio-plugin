@@ -1,6 +1,4 @@
-# EN:
-
-# Mariusz Kowal Portfolio Plugin
+# EN: Mariusz Kowal Portfolio Plugin
 
 A WordPress plugin created as part of the **MARIUSZKOWAL - WordPress** project. This repository serves to showcase the code structure and organization of a custom plugin, rather than acting as a ready-to-use package for download and installation.
 
@@ -46,9 +44,7 @@ This is a demonstration project developed as a component of a programming portfo
 Mariusz Kowal
 
 
-# PL:
-
-# Mariusz Kowal Portfolio Plugin
+# PL: Mariusz Kowal Portfolio Plugin
 
 Wtyczka WordPress stworzona jako czesc projektu **MARIUSZKOWAL - WordPress**. Repozytorium sluzy do prezentacji kodu i sposobu organizacji wlasnej wtyczki, a nie jako gotowa paczka do pobrania i instalacji.
 
